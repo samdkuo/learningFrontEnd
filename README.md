@@ -1,7 +1,7 @@
-# learningReact
+# learningWebDev
 for any small projects/tutorials while practicing react
 
-## Basic Tools:
+## Basic Front-End Tools:
 ### HTML
 Backbone of all websites. Structures data. Annotates site text. Dictates site architecture. Dictates text display.
   - uses tags (descriptive commands) which indicate to browser that the text in the brackets needs to be processed.  
