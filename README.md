@@ -1,4 +1,4 @@
-# learningWebDev
+# learningFrontEnd
 for any small projects/tutorials while practicing react
 
 ## Basic Front-End Tools:
